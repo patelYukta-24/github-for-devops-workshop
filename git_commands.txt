@@ -7,4 +7,5 @@ rm testing.py
 git restore testing.py
 dir/ls
 
-"This is a new changes to check somthing"
+"This is a new changes to check somthing" 
+"Okay, Success"
