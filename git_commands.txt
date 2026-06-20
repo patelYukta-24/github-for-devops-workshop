@@ -6,6 +6,11 @@ clear
 rm testing.py
 git restore testing.py
 dir/ls
+git remote -v
+git config --global user.name "[username]"
+git config --global user.email "[user-email]"
 
-"This is a new changes to check somthing" 
+"This is a new changes to check somthing"
+
+
 "Okay, Success"
